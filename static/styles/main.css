@@ -1,0 +1,43 @@
+h1{
+  font-size: 5rem;
+}
+
+.yopo{
+  font-size: 10rem;
+}
+
+.list-group-item{
+  font-size: 1.3rem;
+}
+
+p{
+  font-size:1.3rem;
+  color: #230b3a;
+}
+
+a{
+  text-decoration: none;
+  color: #230b3a;
+}
+
+a:hover{
+  color:#d55290;
+}
+
+#top{
+  height: 700px;
+  /*margin-bottom: 400px;*/
+}
+
+.y{
+  color:#d55290;
+}
+.o{
+  color:#9d2899;
+}
+.p{
+  color:#6e2b97;
+}
+.o2{
+  color:#230b3a;
+}
